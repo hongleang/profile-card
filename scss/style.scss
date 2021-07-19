@@ -13,7 +13,6 @@
 
 :root {
   font-size: $font-size;
-  line-height: 2rem;
 }
 
 * {
@@ -28,6 +27,8 @@ body {
   height: 100vh;
   background: $darkCyan;
   font-family: $font-family;
+  line-height: 10px;
+  letter-spacing: 1px;
 }
 
 a {
